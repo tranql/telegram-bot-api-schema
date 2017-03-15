@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot-api-schema",
+  "version": "1.0.0",
+  "description": "JSON schema of the telegram bot API requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranql/telegram-bot-api-schema.git"
+  },
+  "keywords": [
+    "tranql",
+    "telegram",
+    "api",
+    "json",
+    "schema"
+  ],
+  "author": "Diwank Singh <diwank.singh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tranql/telegram-bot-api-schema/issues"
+  },
+  "homepage": "https://github.com/tranql/telegram-bot-api-schema#readme"
+}
